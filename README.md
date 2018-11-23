@@ -3,10 +3,10 @@ This is a small OpenGL 1.0 program that displays a 100x100 field of points that 
 
 ## How to run the program
 The command I used to compile this program is as follows:
-> (will add command shortly)
+> gcc -o PointField PointField.c -lGL -lGLU -lglut -lm
 
 Then, to run the program, simply type:
-> ./PointWave
+> ./PointField
 
 Please note that in order to compile this program, you need the libraries shown in the compilation command.
 
