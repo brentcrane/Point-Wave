@@ -2,7 +2,6 @@
  * Brent Crane
  * Started September 21st, 2018
  * A field of points, thought it might look cool
- * Might try to expand it to react to music, somehow. That could be fun.
  */
 
 #include <stdlib.h>
